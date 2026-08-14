@@ -1,6 +1,6 @@
 # Kubernetes Web Application Deployment & Scaling
 
-A beginner-friendly Kubernetes project where I containerized a simple web application using Docker and then deployed it to a local Kubernetes cluster using Minikube.
+ Kubernetes project where I containerized a web application using Docker and then deployed it to a local Kubernetes cluster using Minikube.
 
 The goal of this project was to understand how a containerized application moves from Docker into Kubernetes, how Kubernetes manages multiple Pods, and how a Service makes the application accessible.
 
