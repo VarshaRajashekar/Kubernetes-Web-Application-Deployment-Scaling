@@ -53,3 +53,4 @@ In this project created a simple HTML web application and packaged it into an Ng
                     ↓
                 Browser
 <img width="1700" height="446" alt="Screenshot 2026-08-13 201719" src="https://github.com/user-attachments/assets/4655752d-463a-43cb-b9db-d8c39f13da11" />
+<img width="863" height="458" alt="image" src="https://github.com/user-attachments/assets/526aa0ab-02f6-47d6-ae41-b9b2b0eeb39c" />
